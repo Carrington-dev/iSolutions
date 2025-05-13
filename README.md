@@ -1,38 +1,62 @@
 # iSolutions
 
 These are the solutions for the interview I held at cloudsmith on 2025/05/13
-
 ## Table of Contents
 
-- [Installation](#installation)
+- [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Introduction
 
-Instructions on how to install and set up the project.
+This repository contains solutions to the technical interview questions provided by Cloudsmith. The solutions are designed to demonstrate problem-solving skills, coding proficiency, and adherence to best practices.
 
-```bash
-# Example
-git clone https://github.com/your-repo/project-name.git
-cd project-name
-npm install
-```
+## Technologies Used
+
+- **Programming Language**: Python 3.10+
+- **Libraries/Frameworks**: 
+    - NumPy
+    - Pandas
+    - Flask (if applicable)
+- **Tools**: Git, VS Code
+
+## Setup Instructions
+
+1. Clone the repository:
+     ```bash
+     git clone https://github.com/yourusername/iSolutions.git
+     cd iSolutions
+     ```
+
+2. Create a virtual environment and activate it:
+     ```bash
+     python -m venv venv
+     source venv/bin/activate  # On Windows: venv\Scripts\activate
+     ```
+
+3. Install dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 ## Usage
 
-Examples of how to use the project.
-
+Run the solutions by executing the respective Python scripts. For example:
 ```bash
-# Example
-npm start
+python solution1.py
 ```
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push the branch.
+4. Submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the `LICENSE` file for details.
