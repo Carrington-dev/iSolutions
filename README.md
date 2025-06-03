@@ -27,7 +27,7 @@ This repository contains solutions to the technical interview questions provided
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/iSolutions.git
+     git clone https://github.com/Carrington-dev/iSolutions.git
      cd iSolutions
      ```
 
